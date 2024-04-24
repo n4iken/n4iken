@@ -1,16 +1,17 @@
-### Hi there 👋
+# I'm Jonathan! 👋
 
-<!--
-**n4iken/n4iken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Student at UTEC<br>
+💻 Web Deveolper <br>
+📚 I am currently studying Computer Sciences Degree<br>
 
-Here are some ideas to get you started:
+---
+### ⚡ **My skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development:
+#### Frontend:
+
+![HTML, CSS, Tailwind CSS, Javascript, Astro](https://skillicons.dev/icons?i=html,css,tailwind,js,astro)
+---
+#### Backend:
+![Java, Spring Boot, PsotgreSQL](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+
