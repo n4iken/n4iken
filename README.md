@@ -13,5 +13,5 @@
 ![HTML, CSS, Tailwind CSS, Javascript, Astro](https://skillicons.dev/icons?i=html,css,tailwind,js,astro)
 ---
 #### Backend:
-![Java, Spring Boot, PsotgreSQL](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+![Java, Spring Boot, PsotgreSQL](https://skillicons.dev/icons?i=java,spring,postgres)
 
