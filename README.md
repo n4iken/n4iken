@@ -1,4 +1,4 @@
-# I'm Jonathan! 👋
+# I'm Jona! 👋
 
 💼 Student at UTEC<br>
 💻 Web Deveolper <br>
